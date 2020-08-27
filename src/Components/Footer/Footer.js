@@ -206,7 +206,10 @@ function Footer() {
               </div>
             </div>
           </div>
-          <p className="footer-country">Netlfix Hungary</p>
+          <p className="footer-country">
+            Netlfix Hungary | Netflix Colne With Love By Krisztian Nagy /
+            Chrys-Code
+          </p>
         </div>
       </div>
     </div>
