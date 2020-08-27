@@ -1,0 +1,129 @@
+.footer-card {
+  border-bottom: none;
+  padding-bottom: 0;
+
+  .footer-wrapper {
+    min-width: 190px;
+    width: 100%;
+    margin-top: 0px;
+    padding-bottom: 20px;
+    font-size: 1em;
+    color: #757575;
+    position: relative;
+
+    .site-footer {
+      margin: auto;
+      width: 80%;
+
+      .footer-top {
+        padding: 0;
+        margin: 0 0 30px;
+
+        a {
+          text-decoration: none;
+          color: #757575;
+        }
+      }
+      .footer-links {
+        padding: 0;
+        margin: 0;
+        max-width: 1000px;
+        font-size: 13px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+
+        .footer-link-item {
+          list-style: none;
+          margin-left: 0;
+
+          box-sizing: border-box;
+          padding: 0;
+          margin-bottom: 16px;
+          display: inline-block;
+          min-width: 100px;
+          width: 25%;
+          padding-right: 12px;
+          vertical-align: top;
+
+          a {
+            text-decoration: none;
+            color: #757575;
+          }
+        }
+      }
+
+      .lang-selection-container {
+        display: inline-block;
+        margin-right: 2rem;
+
+        .language-picker-container {
+          position: relative;
+          width: auto;
+          display: inline-block;
+        }
+
+        .select-arrow {
+          position: relative;
+          display: inline-block;
+          width: 100%;
+
+          select {
+            background-color: #000;
+            background-image: none;
+            border: 1px solid #333;
+            color: #999;
+            font-size: 16px;
+
+            text-align: start;
+            align-items: center;
+            display: inline-block;
+            align-items: center;
+            box-sizing: border-box;
+            text-transform: none;
+            height: 35px;
+            border: 1px solid white;
+            text-indent: 0;
+            text-align-last: right;
+          }
+
+          .select.medium {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-left: 0.8rem;
+            padding-right: 0.8rem;
+            line-height: 1.3em;
+            overflow: hidden;
+            white-space: nowrap;
+            color: white;
+          }
+        }
+
+        .select-arrow.prefix.globe::before {
+          content: "\e896";
+          color: white;
+
+          position: absolute;
+          transform: translate(-50%, -50%);
+          top: 45%;
+          left: 10%;
+        }
+
+        .select-arrow::after {
+          content: "\e898";
+          font-size: 6px;
+          position: absolute;
+          transform: translateY(-50%);
+          top: 50%;
+          right: 9px;
+          color: #fff;
+        }
+
+        //before globe
+        //middle text
+        //after arrow
+      }
+    }
+  }
+}
