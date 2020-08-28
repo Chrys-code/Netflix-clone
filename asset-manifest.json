@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9a24141e.chunk.css",
-    "main.js": "/portfolio/static/js/main.f6219985.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f6219985.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.f7700805.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f7700805.js.map",
-    "static/js/2.4bcc1f91.chunk.js": "/portfolio/static/js/2.4bcc1f91.chunk.js",
-    "static/js/2.4bcc1f91.chunk.js.map": "/portfolio/static/js/2.4bcc1f91.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.4a45f37e41e67f2e133b42147a42e918.js": "/portfolio/precache-manifest.4a45f37e41e67f2e133b42147a42e918.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.9a24141e.chunk.css.map": "/portfolio/static/css/main.9a24141e.chunk.css.map",
-    "static/js/2.4bcc1f91.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4bcc1f91.chunk.js.LICENSE.txt",
-    "static/media/hero-bg.jpg": "/portfolio/static/media/hero-bg.94ada64a.jpg"
+    "main.css": "/netflix-clone/static/css/main.9a24141e.chunk.css",
+    "main.js": "/netflix-clone/static/js/main.17848d8a.chunk.js",
+    "main.js.map": "/netflix-clone/static/js/main.17848d8a.chunk.js.map",
+    "runtime-main.js": "/netflix-clone/static/js/runtime-main.baddefd0.js",
+    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.baddefd0.js.map",
+    "static/js/2.4bcc1f91.chunk.js": "/netflix-clone/static/js/2.4bcc1f91.chunk.js",
+    "static/js/2.4bcc1f91.chunk.js.map": "/netflix-clone/static/js/2.4bcc1f91.chunk.js.map",
+    "index.html": "/netflix-clone/index.html",
+    "precache-manifest.16dd76ba68a06bcf0d7907d85a6149a5.js": "/netflix-clone/precache-manifest.16dd76ba68a06bcf0d7907d85a6149a5.js",
+    "service-worker.js": "/netflix-clone/service-worker.js",
+    "static/css/main.9a24141e.chunk.css.map": "/netflix-clone/static/css/main.9a24141e.chunk.css.map",
+    "static/js/2.4bcc1f91.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.4bcc1f91.chunk.js.LICENSE.txt",
+    "static/media/hero-bg.jpg": "/netflix-clone/static/media/hero-bg.94ada64a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7700805.js",
+    "static/js/runtime-main.baddefd0.js",
     "static/js/2.4bcc1f91.chunk.js",
     "static/css/main.9a24141e.chunk.css",
-    "static/js/main.f6219985.chunk.js"
+    "static/js/main.17848d8a.chunk.js"
   ]
 }
